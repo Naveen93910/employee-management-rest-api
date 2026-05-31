@@ -62,3 +62,8 @@ This is a Spring Boot CRUD REST API project for managing employee data using MyS
 ## Author
 Naveen
 
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/naveenbattina
+- GitHub: https://github.com/Naveen93910
+
