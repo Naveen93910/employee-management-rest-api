@@ -22,43 +22,35 @@ This is a Spring Boot CRUD REST API project for managing employee data using MyS
 
 ## Project Structure
 
-<img width="100%" alt="Project Structure" src="YOUR_IMAGE_LINK_HERE">
-
+<img width="100%" alt="Project Structure" src="images/project-structure.png">
 
 ## Application Running
 
-<img width="100%" alt="Application Running" src="YOUR_IMAGE_LINK_HERE">
+<img width="100%" alt="Application Running" src="images/application-running.png">
 
 ## Insert Employee API
 
-<img width="100%" alt="Insert API" src="YOUR_IMAGE_LINK_HERE">
-
+<img width="100%" alt="Insert API" src="images/postman-insert.png">
 
 ## Get All Employees API
 
-<img width="100%" alt="Get API" src="YOUR_IMAGE_LINK_HERE">
-
+<img width="100%" alt="Get API" src="images/postman-get.png">
 
 ## Get Employee By ID API
 
-<img width="100%" alt="Get By ID API" src="YOUR_IMAGE_LINK_HERE">
-
+<img width="100%" alt="Get By ID API" src="images/postman-getById.png">
 
 ## Update Employee API
 
-### Before Update
-
-<img width="100%" alt="Before Update" src="YOUR_IMAGE_LINK_HERE">
-
-### After Update
-
-<img width="100%" alt="After Update" src="YOUR_IMAGE_LINK_HERE">
-
+<img width="100%" alt="Update API" src="images/postman-update-after.png">
 
 ## Delete Employee API
 
-<img width="100%" alt="Delete API" src="YOUR_IMAGE_LINK_HERE">
+<img width="100%" alt="Delete API" src="images/postman-deleteById.png">
 
+## MySQL Database
+
+<img width="100%" alt="MySQL Database" src="images/mysql-table.png">
 
 ## How To Run
 1. Clone the repository
