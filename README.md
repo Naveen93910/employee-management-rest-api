@@ -10,6 +10,7 @@ This is a Spring Boot CRUD REST API project for managing employee data using MyS
 - MySQL
 - Lombok
 - Maven
+- PostMan
 
 ## Features
 - Add Employee
